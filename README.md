@@ -26,3 +26,7 @@ Issues 1
 
 ### Até mais e obrigado pelos peixes!
 
+## Feature 2
+
+Feature 2
+
